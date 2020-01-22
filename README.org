@@ -1,7 +1,9 @@
 #+TITLE: read-aloud layer
 
 # The maximum height of the logo should be 200 pixels.
-[[img/read-aloud.png]]
+
+[[https://github.com/gromnitsky/read-aloud.el][Read aloud]].
+
 
 # TOC links should be GitHub style anchors.
 * Table of Contents                                        :TOC_4_gh:noexport:
